@@ -2,6 +2,7 @@
 
 This program generates cordinates which can display a detailed dragon fractal as shown below:
 
+![alt text](https://i.imgur.com/CLpNYtq.png)
 
 
 
