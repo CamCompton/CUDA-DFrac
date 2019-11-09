@@ -15,8 +15,12 @@ CUDA tooklit, found here: https://developer.nvidia.com/cuda-downloads
 
 Usage:
 To run the program enter these commands in the terminal from the main directory:
+
 cd build
+
 cmake ..
+
 make all
+
 ./dragonfrac
 
