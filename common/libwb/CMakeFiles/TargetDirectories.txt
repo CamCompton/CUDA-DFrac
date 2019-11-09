@@ -1,0 +1,4 @@
+/home/cam/templates/libwb/CMakeFiles/rebuild_cache.dir
+/home/cam/templates/libwb/CMakeFiles/libwb.dir
+/home/cam/templates/libwb/CMakeFiles/edit_cache.dir
+/home/cam/templates/libwb/CMakeFiles/wb.dir
